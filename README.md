@@ -3,6 +3,8 @@
 # 1. Data
 The data used in this project is from Kaggle. It contains data from ski resorts in Europe. The dataset has approximately ~370 data points.
 
+[Kaggle Data](https://www.kaggle.com/datasets/thomasnibb/european-ski-resorts)
+
 # 2. Method
 
 The goal was to first explore the data to identify interesting features within the dataset.
